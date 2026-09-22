@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Job.Api/Job.Api.csproj" />
+  <Project Path="Job.Application/Job.Application.csproj" />
+  <Project Path="Job.Domain/Job.Domain.csproj" />
+  <Project Path="Job.Infrastructure/Jobs.Infrastructure.csproj" />
+</Solution>
